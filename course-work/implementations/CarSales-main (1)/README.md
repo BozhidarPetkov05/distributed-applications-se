@@ -29,7 +29,6 @@ The project is split into two parts:
 ### 1. Clone / extract the project
 
 ```bash
-unzip CarSales-main.zip
 cd CarSales-main
 ```
 
