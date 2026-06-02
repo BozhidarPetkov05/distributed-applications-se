@@ -77,8 +77,6 @@ npm install
 npm run dev
 ```
 
-Vite starts on `http://localhost:5173` by default. Open that URL in your browser to use the application.
-
 ---
 
 ## Notes
