@@ -54,6 +54,8 @@ This creates the `CarSalesDb` database with all required tables.
 
 ### 4. Run the backend API
 
+In the terminal run:
+
 ```bash
 cd CarSales
 dotnet run
