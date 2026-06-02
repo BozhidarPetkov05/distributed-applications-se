@@ -1,0 +1,47 @@
+
+.signup-card {
+    max-width: 520px;
+}
+
+.form-row {
+    display: flex;
+    gap: 16px;
+}
+
+    .form-row .form-group {
+        flex: 1;
+    }
+
+
+.username-field {
+    flex: 2 !important;
+}
+
+.age-field {
+    flex: 1 !important;
+}
+
+.alert-success {
+    background-color: #d1fae5;
+    color: #065f46;
+    border: 1px solid #a7f3d0;
+}
+
+.auth-switch {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 14px;
+    color: #64748b;
+}
+
+    .auth-switch span {
+        color: #007bff;
+        font-weight: 600;
+        cursor: pointer;
+        transition: color 0.2s ease-in-out;
+    }
+
+        .auth-switch span:hover {
+            color: #0056b3;
+            text-decoration: underline;
+        }

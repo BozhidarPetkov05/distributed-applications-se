@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="../CarSales.Client/CarSales.Client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="../CarSales.Contracts/CarSales.Contracts.csproj" Id="c259d330-e5a9-4ec1-877a-ae6d60ba431c" />
+  <Project Path="../CarSales.Data/CarSales.Data.csproj" />
+  <Project Path="../CarSales.Repository/CarSales.Repository.csproj" Id="1cfc068d-dd70-4837-8b32-e8e564aad327" />
+  <Project Path="../CarSales.Services/CarSales.Services.csproj" Id="1c70f271-7812-4528-9691-4ab054d6610c" />
+  <Project Path="CarSales.csproj" />
+</Solution>

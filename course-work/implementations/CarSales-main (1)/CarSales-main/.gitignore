@@ -1,0 +1,11 @@
+CarSales/.vs/
+CarSales/bin/
+CarSales/obj/
+CarSales.Data/bin/
+CarSales.Data/obj/
+CarSales.Contracts/bin/
+CarSales.Contracts/obj/
+CarSales.Repository/bin/
+CarSales.Repository/obj/
+CarSales.Services/bin/
+CarSales.Services/obj/
